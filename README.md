@@ -19,7 +19,18 @@ System information and resource monitoring
 
 Project Screenshots
 
-System Information
+1. System Information
+
+Identified the Ubuntu environment and inspected system details, including the current user, hostname, Linux kernel version, operating system, disk space, and memory usage.
+
+Commands used:
+
+whoami
+hostname
+uname -r
+lsb_release -a
+df -h
+free -h
 ![System Information](./Screenshots/System-Information.png)
 
 Company Directory Structure
