@@ -20,7 +20,6 @@ System information and resource monitoring
 Project Screenshots
 
 1. System Information
-System Information
 
 Identified the Ubuntu environment and inspected system details, including the current user, hostname, Linux kernel version, operating system, disk space, and memory usage.
 
