@@ -37,6 +37,7 @@ Commands used:
 
 
 2. Company Directory Structure
+
 Created and organized a simulated company directory structure representing three departments: Administration, Accounting, and IT Support.
 
 Commands used:
@@ -49,6 +50,7 @@ Commands used:
 
 
 3. User Account Management
+
 Created simulated employee accounts to practice Linux user provisioning and account administration.
 
 Commands used:
@@ -62,6 +64,7 @@ Commands used:
 
 
 4. Group Management 
+
 Created departmental Linux groups and assigned employee accounts to their corresponding groups to practice access management.
 
 Commands used:
@@ -76,6 +79,7 @@ Commands used:
 
 
 5. Directory Permissions
+
 Configured directory ownership and permissions to simulate departmental access restrictions and practice the Linux principle of least privilege.
 
 Commands used:
@@ -87,6 +91,7 @@ Commands used:
 ![Directory-Permissions](./Screenshots/Directory-Permissions.png)
 
 6. System Monitoring 
+
 Inspected system resources and running processes to practice basic Linux system monitoring and resource management.
 
 Commands used:
@@ -109,7 +114,7 @@ Commands used:
 - cat /etc/resolv.conf
 
 ![Network-Configuration](./Screenshots/Network-Configuration.png) 
-![Network-Configuration](.Screenshots/Network-Configuration(2).png)
+![Network-Configuration](./Screenshots/Network-Configuration(2).png)
 
 
 
