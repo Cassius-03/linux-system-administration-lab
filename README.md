@@ -152,6 +152,7 @@ Restored Angelica's access to the Accounting department directory by updating he
 -  `chmod ` — Configured directory permissions.
 -  `sudo -u ` — Tested access as another user.
 
+![Access Restored](./Screenshots/Accounting-Access-Restored.png)
 
 Learning Outcomes
 
