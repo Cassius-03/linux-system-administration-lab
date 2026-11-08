@@ -105,6 +105,7 @@ Commands used:
 ![System-Monitoring](./Screenshots/System-Monitoring(3).png)
 
 7. Network Configuration 
+
 Inspected network interfaces, routing information, and DNS configuration within the Ubuntu WSL2 environment.
 
 Commands used:
@@ -119,8 +120,11 @@ Commands used:
 
 
 Learning Outcomes
+
 Developed hands-on experience with Linux administration, account provisioning, access control, and basic IT troubleshooting through a simulated business environment.
 
+
 Project Status
+
 In Progress
 Career Focus: Entry-Level IT Support | Help Desk | Desktop Support
