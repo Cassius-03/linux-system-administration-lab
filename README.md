@@ -101,7 +101,12 @@ Commands used:
 - df -h
 
 ![System-Monitoring](./Screenshots/System-Monitoring.png) 
+
+
 ![System-Monitoring](./Screenshots/System-Monitoring(2).png)
+
+
+
 ![System-Monitoring](./Screenshots/System-Monitoring(3).png)
 
 7. Network Configuration 
@@ -115,6 +120,8 @@ Commands used:
 - cat /etc/resolv.conf
 
 ![Network-Configuration](./Screenshots/Network-Configuration.png) 
+
+
 ![Network-Configuration](./Screenshots/Network-Configuration(2).png)
 
 
