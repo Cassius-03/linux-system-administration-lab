@@ -20,7 +20,7 @@ System information and resource monitoring
 Project Screenshots
 
 System Information
-![System Information](./Screenshots/01-system-information.png)
+![System Information](./Screenshots/SystemInformation.png)
 
 Company Directory Structure
 !Company Directories
