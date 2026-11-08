@@ -1,14 +1,14 @@
-Overview
+OVERVIEW
 A hands-on Linux administration project simulating a small business IT environment using Ubuntu Linux on Windows 11 through WSL2.
 The project focuses on user account management, group administration, directory organization, file permissions, and basic system troubleshooting.
 
-Technologies
+TECHNOLOGIES
 - Windows 11
 - Ubuntu Linux
 - WSL2
 - Bash / Linux Command Line
 
-Skills Practiced
+SKILLS PRACTICED
 - Linux user and group management
 - Creating and organizing directories
 - File ownership and permissions (chmod, chown)
@@ -17,7 +17,7 @@ System information and resource monitoring
 - Basic network configuration
 - Troubleshooting access and permission issues
 
-Project Screenshots
+PROJECT SCREENSHOTS
 
 1. System Information
 
@@ -35,7 +35,8 @@ free -h
 ![System Information](./Screenshots/System-Information.png)
 
 Company Directory Structure
-!Company Directories
+
+![Company Directories](./Screenshots/System-Information.png)
 
 User Account Management
 !User Accounts
