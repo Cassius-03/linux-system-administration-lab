@@ -32,7 +32,7 @@ Commands used:
 - df -h
 - free -h
 
-![System Information](./Screenshots/System-Information.png)
+![System-Information](./Screenshots/System-Information.png)
 
 
 
@@ -45,7 +45,7 @@ Commands used:
 - ls -l
 - find
 
-![Company Directories](./Screenshots/Company-Directories.png)
+![Company-Directories](./Screenshots/Company-Directories.png)
 
 
 3. User Account Management
@@ -84,7 +84,7 @@ Commands used:
 - chmod
 - ls -ld
 - sudo
-![Directory Permissions](./Screenshots/Directory-Permissions.png)
+![Directory-Permissions](./Screenshots/Directory-Permissions.png)
 
 6. System Monitoring 
 Inspected system resources and running processes to practice basic Linux system monitoring and resource management.
@@ -95,9 +95,9 @@ Commands used:
 - free -h
 - df -h
 
-![System Monitoring](./Screenshots/System-Monitoring.png) 
-![System Monitoring](./Screenshots/System-Monitoring(2).png)
-![System Monitoring](./Screenshots/System-Monitoring(3).png)
+![System-Monitoring](./Screenshots/System-Monitoring.png) 
+![System-Monitoring](./Screenshots/System-Monitoring(2).png)
+![System-Monitoring](./Screenshots/System-Monitoring(3).png)
 
 7. Network Configuration 
 Inspected network interfaces, routing information, and DNS configuration within the Ubuntu WSL2 environment.
@@ -108,8 +108,8 @@ Commands used:
 - ip route
 - cat /etc/resolv.conf
 
-![Network Configuration](./Screenshots/Network-Configuration.png) 
-![Network Configuration](.Screenshots/Network-Configuration(2).png)
+![Network-Configuration](./Screenshots/Network-Configuration.png) 
+![Network-Configuration](.Screenshots/Network-Configuration(2).png)
 
 
 
