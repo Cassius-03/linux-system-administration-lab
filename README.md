@@ -1,2 +1,1 @@
-# linux-system-administration-lab
-linux-system-administration-lab/ │ ├── README.md │ ├── screenshots/ │   ├── system-information.png │   ├── directory-structure.png │   ├── user-accounts.png │   ├── group-management.png │   ├── permissions.png │   └── system-monitoring.png │ └── documentation/     ├── user-management.md     ├── file-permissions.md     └── troubleshooting-report.md
+A hands-on Ubuntu Linux system administration lab simulating a small business IT environment. Covers user and group management, directory structures, file permissions, ownership, system monitoring, and troubleshooting. Created to develop practical IT support and Linux administration skills.
